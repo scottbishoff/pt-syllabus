@@ -101,6 +101,7 @@
   - [Slides (for review)](https://docs.google.com/presentation/d/1Cktp9gvNYnhTUfPkfiLcvqpgKTQ-HxiYUJsYmPHJSFM)
   - [Getting Started with Git](http://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
   - [Using SSH w/ Git](https://help.github.com/articles/generating-ssh-keys/)
+  - [Learn git branching](https://pcottle.github.io/learnGitBranching/?NODEMO)
 
 
 #### <a name="day12"></a> Day 2 - HTML & CSS I
